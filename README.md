@@ -1,6 +1,7 @@
 # 🦁 멋쟁이사자처럼 단국대학교 11기
+![Screenshot 2023-05-20 at 00 48 38](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/49cef96a-f6aa-4f19-99d5-66a2d1446687)
 
-![866610da5e81de066cc925768458dedabbfdf41916e6b7143094e4362b9370f5_1619092921783967](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/1453281f-7b07-4525-9549-bcfab40de20a)
+
 
 멋쟁이사자처럼 단국대학교 11기 organazation profile 입니다.
 <br/><br/><br/>
