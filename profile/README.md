@@ -3,7 +3,7 @@
 
 
 
-멋쟁이사자처럼 단국대학교 11기 organazation profile 입니다.
+멋쟁이사자처럼 단국대학교 11기 organization profile 입니다.
 <br/><br/><br/>
 
 # 📚 스터디
