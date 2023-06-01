@@ -88,9 +88,13 @@
 <br/><br/>
 
 
-# Contact
+# ✏️ Contact
 
-Provide contact information for your organization, such as an email address or a link to your official website.
+## 운영진
+|회장|운영진|운영진|운영진|운영진|
+|:---:|:---:|:---:|:---:|:---:|
+|<img src="[https://user-images.githubusercontent.com/77167694/167535246-1573ad95-cbb1-46b4-b578-63ad5bb19b4f.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> |<img src="[https://user-images.githubusercontent.com/77167694/229568935-ad2f6543-f89c-450e-a8d5-6a0233377648.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> | <img src="[https://user-images.githubusercontent.com/77167694/229568798-e131437f-a1c0-4177-a48c-54b08238a008.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|
+|김준식|이정현|장현정|구예원|최원웅|
 
 ## License
 
