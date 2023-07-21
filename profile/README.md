@@ -78,19 +78,41 @@
 <br/><br/>
 # 💡 아이디어톤
 
-## Project 1
+## 1팀 우주인 세상
+* 간편한 민원 제기부터 우리 지역구 정치인 소통 창구까지
+* 양지수 장현정 주세연 조건희 최원웅
 
-* Project description or overview
-* Key features or highlights
-* Technologies or programming languages used
-* Any relevant links or documentation
+![단국대(죽전)_1팀_우주인 세상1](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/b5d789fd-6d80-4651-8c9a-f085069b0abd)
+<br/><br/>
 
-## Project 2
+## 2팀 SafeGuardian
+* 모두를 위한 안심 귀가 서비스
+* 이현정 권보궁 이승진 이가은 문민제
 
-* Project description or overview
-* Key features or highlights
-* Technologies or programming languages used
-* Any relevant links or documentation
+![단국대(죽전)_2팀_SafeGuardian1](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/937ba4e4-62dc-4c5b-81f5-99bf0b07a1fb)
+<br/><br/>
+
+## 3팀 걸음마
+* 독거노인 외출 장려 서비스
+* 서준호 김보란 박서영 김정호 구예원
+
+![단국대(죽전)_3팀_걸음마1](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/566e2e7f-c400-442b-96f0-fde69f927df8)
+<br/><br/>
+
+## 4팀 SOKDAK
+* 시각장애인을 위한 키오스크 음성 인식 태그 서비스
+* 이승준 김성민 김준식 배규리 진종수
+![단국대(죽전)_4팀_SOKDAK1](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/09cb3a36-6fda-4fae-8a52-50835e537a13)
+<br/><br/>
+
+## 5팀 지켜독
+
+* 열심히 번 돈, 우리가 열심히 지켜줄게요!
+* 구진서 정준서 오성훈 이관현 이정현
+
+![단국대(죽전)_5팀_지켜독1](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/4d2fefc8-084a-4bfb-8175-004f6b813978)
+<br/><br/>
+
 
 
 <br/><br/>
