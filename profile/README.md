@@ -55,11 +55,21 @@
 
 ## 채용사이트
 
-### TEAM : 이승준 이현정 구예원 조건희
+### TEAM : 이승준 이현정 구예원 조건희  
 <img width="1000" alt="HIRE" src="https://github.com/LIKELION-DKU-11th/.github/assets/121302951/9ce03d3f-609e-407e-893a-0f991a129a16">
+<br/><br/>
+
 
 ### TEAM : 박서영 오성훈 양지수 정준서 
 ![KakaoTalk_Photo_2023-07-18-11-30-54](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/ae2684f1-34ea-45b8-84af-1840b76a7d0f)
+<br/><br/>
+
+
+### TEAM : 권보궁 김성민 김보란
+<img width="1000" alt="KakaoTalk_Photo_2023-07-21-10-14-07" src="https://github.com/LIKELION-DKU-11th/.github/assets/121302951/57ff0ca3-8f73-4034-ad28-8ccdce771c36">
+<br/><br/>
+
+
 
 
 
