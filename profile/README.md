@@ -69,6 +69,15 @@
 <img width="1000" alt="KakaoTalk_Photo_2023-07-21-10-14-07" src="https://github.com/LIKELION-DKU-11th/.github/assets/121302951/57ff0ca3-8f73-4034-ad28-8ccdce771c36">
 <br/><br/>
 
+### TEAM : 김정호 서준호 주세연 이관현
+![KakaoTalk_Photo_2023-08-01-15-20-42](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/02f01cf9-4106-4a92-82ed-d400f114f106)
+
+
+
+
+<br/><br/>
+
+
 
 
 
