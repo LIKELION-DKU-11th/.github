@@ -111,7 +111,9 @@
 ## 4팀 SOKDAK
 * 시각장애인을 위한 키오스크 음성 인식 태그 서비스
 * 이승준 김성민 김준식 배규리 진종수
+
 ![단국대(죽전)_4팀_SOKDAK1](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/09cb3a36-6fda-4fae-8a52-50835e537a13)
+
 <br/><br/>
 
 ## 5팀 지켜독
@@ -148,10 +150,10 @@
 # ✏️ Contact
 
 ## 운영진
-|회장|운영진|운영진|운영진|운영진|
-|:---:|:---:|:---:|:---:|:---:|
-|<img src="[https://user-images.githubusercontent.com/77167694/167535246-1573ad95-cbb1-46b4-b578-63ad5bb19b4f.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> |<img src="[https://user-images.githubusercontent.com/77167694/229568935-ad2f6543-f89c-450e-a8d5-6a0233377648.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> | <img src="[https://user-images.githubusercontent.com/77167694/229568798-e131437f-a1c0-4177-a48c-54b08238a008.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|
-|김준식|이정현|장현정|구예원|최원웅|
+|대표|운영진|운영진|운영진|
+|:---:|:---:|:---:|:---:|
+|<img src="[https://user-images.githubusercontent.com/77167694/167535246-1573ad95-cbb1-46b4-b578-63ad5bb19b4f.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> | <img src="[https://user-images.githubusercontent.com/77167694/229568798-e131437f-a1c0-4177-a48c-54b08238a008.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|
+|김준식|ㅇㅇㅇ|ㅇㅇㅇ|ㅇㅇㅇ|
 
 ## License
 
