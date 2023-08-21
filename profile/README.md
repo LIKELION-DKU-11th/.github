@@ -1,14 +1,12 @@
-# 🦁 멋쟁이사자처럼 단국대학교 11기
-![Screenshot 2023-05-20 at 00 48 38](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/49cef96a-f6aa-4f19-99d5-66a2d1446687)
+# 🦁 멋쟁이사자처럼 단국대학교 11기 공식계정
 
+<img src="https://github.com/LIKELION-DKU-11th/.github/assets/121302951/49cef96a-f6aa-4f19-99d5-66a2d1446687" width="400" />
 
-
-멋쟁이사자처럼 단국대학교 11기 organization profile 입니다.
-<br/><br/><br/>
 
 # 📚 스터디
 
-
+<details>
+  <summary> 스터디 상세 </summary>
 
 ## Frontend 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -17,25 +15,14 @@
 장소 : 사회과학관 303호<br/>
 매주 수요일 18시 ~ 20시 정규스터디
 
-
-
 - ### Contents
   - React..
-
-
-
-
-
 <br/>
-
-
 
 ## Backend 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 장소 : 사회과학관 304호<br/>
 매주 수요일 19시 ~ 21시 정규스터디
-
-
 
 - ### Contents
   - 유저관리 with JPA
@@ -44,10 +31,16 @@
   - 서버 배포
 
 
+</details>
+
+
 
 
 <br/><br/>
 # 🦁 Mini Project
+
+<details>
+  <summary> 미니프로젝트 상세 </summary>
 
 ## MBTI INFO
 *
@@ -79,7 +72,7 @@
 
 
 
-
+</details>
 
 
 
