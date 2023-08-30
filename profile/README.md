@@ -123,7 +123,10 @@
 # 💻 해커톤
 
 ## NO:ONE - 테크커넥션
-아무도 모르는 신기술 백과사전 : 노인을 위한, 노인과 하나된 삶 <br />
+아무도 모르는 신기술 백과사전 : 노인을 위한, 노인과 하나된 삶 <br /><br />
+아무도(no one) 모르는 신기술 백과사전 NO:ONE<br />
+노(no)인과 하나(one)된 삶을 추구하는 NO:ONE<br /><br />
+디지털 격차가 극심화 되는 추세인 지금, 노인 분들과 디지털 신기술에 어려움을 겪고 계신 분들을 위한 신기술 교육 컨텐츠 무료 제공 플랫폼<br />
 - 프로젝트 개발기간: 2023.07.19 ~ 2023.08.19
 - 기술 스택: React JS, SCSS, Recoil, Spring, MySQL, Redis, AWS, CloudType
 - MEMBER: 박서영(FE) 장현정(FE) 권보궁(BE) 정준서(BE)
@@ -186,7 +189,7 @@
 ## 운영진
 |대표|운영진|운영진|운영진|
 |:---:|:---:|:---:|:---:|
-|<img src="[https://user-images.githubusercontent.com/77167694/167535246-1573ad95-cbb1-46b4-b578-63ad5bb19b4f.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> | <img src="[https://user-images.githubusercontent.com/77167694/229568798-e131437f-a1c0-4177-a48c-54b08238a008.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|
+|<img src="[https://user-images.githubusercontent.com/77167694/167535246-1573ad95-cbb1-46b4-b578-63ad5bb19b4f.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> | <img src="[https://user-images.githubusercontent.com/77167694/229568798-e131437f-a1c0-4177-a48c-54b08238a008.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="https://github.com/LIKELION-DKU-11th/.github/assets/88546743/9d1b9840-5a6c-40e4-981c-bd3342eabcd8" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|
 |김준식|구예원|장현정|최원웅|
 
 ## License
