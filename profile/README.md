@@ -16,7 +16,11 @@
 매주 수요일 18시 ~ 20시 정규스터디
 
 - ### Contents
-  - React..
+  - html, css 기초 (html, css 기본 문법, 태그)
+  - html, css 심화 (flex, grid)
+  - JavaScript (기본 문법, DOM, 이벤트, 비동기처리, 서버 통신)
+  - React JS (React 기본 문법(JSX, 컴포넌트, props, state...), Hooks, 스타일 컴포넌트, 상태관리 라이브러리)
+  - SCSS
 <br/>
 
 ## Backend 
