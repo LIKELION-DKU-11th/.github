@@ -193,7 +193,7 @@
 ## 운영진
 |대표|운영진|운영진|운영진|
 |:---:|:---:|:---:|:---:|
-|<img src="[https://user-images.githubusercontent.com/77167694/167535246-1573ad95-cbb1-46b4-b578-63ad5bb19b4f.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="120" height="120"/> | <img src="[https://user-images.githubusercontent.com/77167694/229568798-e131437f-a1c0-4177-a48c-54b08238a008.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="https://github.com/LIKELION-DKU-11th/.github/assets/88546743/9d1b9840-5a6c-40e4-981c-bd3342eabcd8" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|
+|<img src="https://github.com/LIKELION-DKU-11th/.github/assets/121302951/256424c0-da76-4d97-a67d-575ae705ff92" width="120" height="120"/> | <img src="[https://user-images.githubusercontent.com/77167694/229568798-e131437f-a1c0-4177-a48c-54b08238a008.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|<img src="https://github.com/LIKELION-DKU-11th/.github/assets/88546743/9d1b9840-5a6c-40e4-981c-bd3342eabcd8" width="130" height="120"/>|<img src="[https://user-images.githubusercontent.com/77167694/229568553-5810ec6f-8a53-4b0b-8640-3821e24def42.png](https://w7.pngwing.com/pngs/959/515/png-transparent-square-squares-miscellaneous-angle-white-thumbnail.png)" width="130" height="120"/>|
 |김준식|구예원|장현정|최원웅|
 
 ## License
