@@ -177,12 +177,16 @@
 
 <br /><br />
 
-## Project 2
 
-* Project description or overview
-* Key features or highlights
-* Technologies or programming languages used
-* Any relevant links or documentation
+
+## PR시대
+### 팀원: 김성민, 서준호, 양지수, 이현정, 주세연
+### 누구에게나 소개할 수 있는 나만의 커리어 페이지, 농부의 명함 서비스
+
+![unnamed (1)](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/4a13fc9f-c5af-47ad-8b4e-9bcd1febb3de)
+
+
+![unnamed](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/e4a142cb-c315-46d5-bb6a-62c270efe136)
 
 
 <br/><br/>
