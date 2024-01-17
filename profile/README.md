@@ -191,6 +191,15 @@
 
 <br/><br/>
 
+## T1F4
+### 팀원: 김보란, 이가은, 이승준, 조건희, 최원웅
+### 사회 갈등을 부추기는 유튜브 알고리즘으로 인해 나만의 세계에 갇혀 정보편향에 빠지는 사람들을 위한 유튜브 리뷰 종합 플랫폼
+
+![unnamed (3)](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/08e5da80-549e-42de-ba01-a6995863a3ce)
+
+
+![unnamed (4)](https://github.com/LIKELION-DKU-11th/.github/assets/121302951/e0b036ee-486c-4404-994d-06d5d12510af)
+
 
 # ✏️ Contact
 
